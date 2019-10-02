@@ -17,6 +17,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  background:fixed;
 }
 body {
  background-image: url("../images/back.jpg");
@@ -27,4 +28,13 @@ body {
 
 li a:hover {
   background-color: #111;
+}
+footer {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+	font-size: 1em;
+	border-top: 2px solid #2AEC08;
+	padding-top: 10px;
+	padding-bottom: 20px;
+  color:#2AEC08;
 }
